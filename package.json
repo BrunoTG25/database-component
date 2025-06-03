@@ -1,10 +1,16 @@
 {
-  "name": "database-component",
-  "devDependencies": {
-    "@types/node": "^20.0.0"
+  "name": "azure-sql-dev",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "preview": "pulumi preview",
+    "up": "pulumi up"
   },
   "dependencies": {
     "@pulumi/pulumi": "^3.90.0",
     "@pulumi/azure-native": "^2.24.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
   }
 }

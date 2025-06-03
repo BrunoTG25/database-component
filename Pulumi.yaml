@@ -1,3 +1,3 @@
-name: azure-sql-demo
+name: azure-sql-dev
 runtime: nodejs
-description: Deploys an Azure SQL Database using Azure Native
+description: Infraestructura dev con Azure SQL usando Pulumi
