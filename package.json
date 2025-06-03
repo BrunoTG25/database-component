@@ -1,0 +1,10 @@
+{
+  "name": "database-component",
+  "devDependencies": {
+    "@types/node": "^20.0.0"
+  },
+  "dependencies": {
+    "@pulumi/pulumi": "^3.90.0",
+    "@pulumi/azure-native": "^2.24.0"
+  }
+}
